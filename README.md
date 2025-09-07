@@ -45,16 +45,18 @@ git clone https://github.com/vivekram17/AI-Email-Reply-Generator.git
 cd AI-Email-Reply-Generator
 ```
 2️⃣ Start the Frontend
-bash
+```bash
 Copy code
 cd emailWriterFrontEnd
 npm install
 npm start
+```
 3️⃣ Start the Backend
-bash
+```bash
 Copy code
 cd emailWriterBackEnd
 ./mvnw spring-boot:run
+```
 4️⃣ Load the Chrome Extension
 Open Chrome → go to chrome://extensions/
 
