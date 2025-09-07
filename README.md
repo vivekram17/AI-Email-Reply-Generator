@@ -28,16 +28,13 @@ Use it directly in **Gmail via a Chrome Extension** or as a **standalone React w
 
 ## 📂 Project Structure
 
+```bash
 AI-Email-Reply-Generator/
 │
-├── emailWriterFrontEnd/ # React.js web application
-├── emailWriterBackEnd/ # Spring Boot backend
-├── email-writer-ext/ # Chrome extension for Gmail
-└── README.md # Project documentation
-
-yaml
-Copy code
-
+├── emailWriterFrontEnd/   # React.js web application
+├── emailWriterBackEnd/    # Spring Boot backend
+├── email-writer-ext/      # Chrome extension for Gmail
+└── README.md              # Project documentation
 ---
 
 ## ⚡ Getting Started
