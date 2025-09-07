@@ -35,14 +35,15 @@ AI-Email-Reply-Generator/
 ├── emailWriterBackEnd/    # Spring Boot backend
 ├── email-writer-ext/      # Chrome extension for Gmail
 └── README.md              # Project documentation
----
+```
 
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repo
-```bash```
+```bash
 git clone https://github.com/vivekram17/AI-Email-Reply-Generator.git
 cd AI-Email-Reply-Generator
+```
 2️⃣ Start the Frontend
 bash
 Copy code
