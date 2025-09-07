@@ -64,7 +64,7 @@ Click Load unpacked
 
 Select the email-writer-ext folder
 
-##📸 Screenshots 
+## 📸 Screenshots 
 
 ### Gmail compose box with AI Reply button
 ![AI Reply in Gmail](ScreenShots/Gmail-Ai-Reply.png)
