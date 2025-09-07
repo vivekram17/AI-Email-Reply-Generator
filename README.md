@@ -22,7 +22,6 @@ Use it directly in **Gmail via a Chrome Extension** or as a **standalone React w
 - **Backend**: Spring Boot (Java), REST API  
 - **Extension**: JavaScript (Manifest V3, Content Scripts)  
 - **AI**: OpenAI API (LLMs)  
-- **Database (optional)**: MySQL / PostgreSQL  
 
 ---
 
