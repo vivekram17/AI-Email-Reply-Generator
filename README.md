@@ -67,10 +67,10 @@ Select the email-writer-ext folder
 ##📸 Screenshots 
 
 ### Gmail compose box with AI Reply button
-![AI Reply in Gmail](screenshots/gmail-ai-reply.png)
+![AI Reply in Gmail](ScreenShots/Gmail-Ai-Reply.png)
 
 ### Web app interface for generating replies
-![Web App UI](screenshots/webapp-ui.png)
+![Web App UI](ScreenShots/WebApp.png)
 
 🏗️ Roadmap
  More tones (Empathetic, Formal, Concise)
