@@ -64,10 +64,13 @@ Click Load unpacked
 
 Select the email-writer-ext folder
 
-📸 Screenshots (Coming Soon)
-Gmail compose box with AI Reply button
+##📸 Screenshots 
 
-Web app interface for generating replies
+### Gmail compose box with AI Reply button
+![AI Reply in Gmail](screenshots/gmail-ai-reply.png)
+
+### Web app interface for generating replies
+![Web App UI](screenshots/webapp-ui.png)
 
 🏗️ Roadmap
  More tones (Empathetic, Formal, Concise)
